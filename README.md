@@ -8,7 +8,7 @@
 
 <h2>About me</h2>
 ➤ I am Passionate Web Developer and Youtube. </br>
-➤ AshisCoding is my attempt to teach new technologies related to website and application development. 
+➤ AshisCoding is my attempt to teach new technologies related to website and application development.  </br>
 ➤ I provide a quick and to the point demo along with resources of anything and everything I teach. Learn newer web development concepts with AshisCoding.
 
 <h3 align="center">Subscribe to my channel to get updates about newer technologies.</h3>
