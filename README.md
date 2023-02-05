@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ash_is_Coding</h1>
-<h3 align="center">A Passionate Web Developer | Youtube</h3>
+<h3 align="center">A Passionate Web Developer | Youtuber</h3>
 
 
 <a target="_blank" align="center">
